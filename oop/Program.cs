@@ -36,7 +36,7 @@ class animal
     public void speak()
         {
         System.Console.WriteLine("The animal makes a sound.");
-    }
+    }//why
     public void feed()
         {
         System.Console.WriteLine("The animal is being fed.");
