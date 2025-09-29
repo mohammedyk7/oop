@@ -22,11 +22,6 @@ class dog : animal
     public string dogbreed { get; set; } //work
 
 }
-//inheritance example
-
-
-
-
 
 
 class animal
