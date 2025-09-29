@@ -12,6 +12,18 @@ animal animal1 = new animal();
 
 
 
+class dog : animal
+{
+    public string breed;
+    public void bark()
+        {
+        System.Console.WriteLine("Woof! Woof!");//hello 
+    }
+    public string dogbreed { get; set; } //work
+
+}
+//inheritance example
+
 
 
 
