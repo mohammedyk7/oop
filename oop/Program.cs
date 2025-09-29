@@ -19,7 +19,7 @@ class dog : animal
         {
         System.Console.WriteLine("Woof! Woof!");
     }
-    public string dogbreed { get; set; }
+    public string dogbreed { get; set; } //work
 
 }
 //inheritance example
